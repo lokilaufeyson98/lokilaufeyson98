@@ -1,13 +1,11 @@
+<div align="center">
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&width=435&lines=Engineering+Mindset;Space+%26+Aerospace;Innovation+Driven;Building+Systems" alt="Typing SVG" />
 </a>
-
-<div align="center">
-  <img src="./banner.svg" width="100%" alt="space banner"/>
 </div>
 
 <div align="center">
-
+  <img src="./banner.svg" width="100%" alt="space banner"/>
 </div>
 
 ---
