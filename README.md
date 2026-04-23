@@ -27,14 +27,12 @@
 
 ### Vision
 
-> Engineering is not just about solving problems — it's about building structures that outlast the moment.  
+> Engineering is not just about solving problems, it's about building structures that outlast the moment.  
 > From ground systems to orbital mechanics, the same principles apply: **precision, efficiency, scale.**
 
 ---
 
 ### Contact
-
-[LinkedIn](https://linkedin.com) · [Email](mailto:your@email.com)
 
 ---
 
