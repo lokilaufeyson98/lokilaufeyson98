@@ -1,20 +1,18 @@
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&width=435&lines=Engineering+Mindset;Space+%26+Aerospace;Innovation+Driven;Building+Systems" alt="Typing SVG" />
+</a>
+
 <div align="center">
   <img src="./banner.svg" width="100%" alt="space banner"/>
 </div>
 
 <div align="center">
 
-## Hi there 👋
-
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&width=435&lines=Engineering+Mindset;Space+%26+Aerospace;Innovation+Driven;Building+Systems" alt="Typing SVG" />
-</a>
-
 </div>
 
 ---
 
-### About
+## Hi there 👋
 
 - Mechanical Engineer focused on scalable software systems and clean architecture
 - Backend developer — C# / .NET, building for performance at scale
@@ -25,7 +23,7 @@
 
 ### Stack
 
-`C#` `.NET` `SQL` `REST APIs` `System Design` `Clean Architecture`
+`C++` `C#` `.NET` `React` `SQL` `gRPC` `REST APIs` `System Design` `Clean Architecture`
 
 ---
 
